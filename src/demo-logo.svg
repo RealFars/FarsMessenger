@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.00006mm"
+   height="512mm"
+   viewBox="0 0 512.00006 512"
+   version="1.1"
+   id="svg19"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs16">
+    <rect
+       x="78"
+       y="768"
+       width="335"
+       height="95"
+       id="rect5222" />
+    <rect
+       x="438.40619"
+       y="1040.8612"
+       width="1182.2825"
+       height="189.50462"
+       id="rect3700" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.00211127,0.0039725)">
+    <rect
+       style="fill:#111111;fill-opacity:1;stroke-width:0.264583"
+       id="rect139"
+       width="512"
+       height="512"
+       x="0.002111265"
+       y="-0.0039724992"
+       inkscape:export-filename="demo-l.ogo.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0647667,0,0,1.0647667,-461.6871,-887.29343)"
+       id="text3698"
+       style="font-size:96px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3700);fill:#ffffff;fill-opacity:1"><tspan
+         x="438.40625"
+         y="1128.445"
+         id="tspan7527"><tspan
+           style="font-family:'Fafa Schrift V01';-inkscape-font-specification:'Fafa Schrift V01'"
+           id="tspan7525">ᴍᴇꜱꜱᴇɴɢᴇʀ</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.48739447,0,0,0.50573138,-29.391191,-162.17631)"
+       id="text5220"
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5222)"><tspan
+         x="78"
+         y="836.1207"
+         id="tspan7531"><tspan
+           style="fill:#ffffff"
+           id="tspan7529">Fars'</tspan></tspan></text>
+  </g>
+</svg>
