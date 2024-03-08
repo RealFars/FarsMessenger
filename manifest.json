@@ -1,7 +1,7 @@
 {
     "name": "Fars' Messenger",
-    "short_name": "Messenger",
-    "start_url": "/?home=true",
+    "short_name": "Fars' Messenger",
+    "start_url": "",
     "icons": [
         {
             "src": "icons/manifest-icon-192.maskable.png",
