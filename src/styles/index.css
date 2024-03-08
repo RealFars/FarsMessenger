@@ -1,9 +1,41 @@
+body {
+    background-color: #00000d; /* Primary color for the main background */
+    color: #FFFFFF; /* White text color for contrast */
+    margin: 0; /* Remove default margin */
+    height: 100vh; /* Full viewport height */
+    display: flex; /* Enable flexbox */
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: flex-end; /* Align content to the end (bottom) */
+}
+
 .textfield {
-    display: flex;
-    width: 100%;
-    padding: 1%;
-    position: fixed;
-    bottom: 1%;
-    left: 1%;
-    right: 1%;
+    width: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 20% solid #3A92AB; /* Use the accent color for the border */
+    background-color: #F0F0F0; /* Secondary color for the div background */
+    color: #00000d; /* Primary color for text */
+    border-radius: 20px; /* Rounded borders */
+    margin: 10px auto 20px; /* Center horizontally and add margin at the bottom */
+    outline: none; /* Remove the outline */
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    font-size: 16px; /* Increase font size */
+}
+
+.textfield input {
+    width: 100%; /* Full width */
+    padding: 10px; /* Some padding */
+    border: none; /* No border */
+    border-radius: 20px; /* Rounded borders */
+    margin-top: 10px; /* Add a top margin */
+    margin-bottom: 10px; /* Bottom margin */
+    outline: none;
+    box-shadow: none; /* No shadow */
+    font-size: 16px; /* Increase font size */
+    background-color: transparent; /* Transparent background */
+    color: inherit; /* Inherit text color from parent */
+}
+
+.textfield input:focus {
+    box-shadow: 0 0 8px rgba(58, 146, 171, 0.6); /* More prominent shadow with the accent color */
 }
